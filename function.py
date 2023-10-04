@@ -1,3 +1,4 @@
+# CS50p
 def main():
     name = input("Whats your name? ")
     hello(name)
