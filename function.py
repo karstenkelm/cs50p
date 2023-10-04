@@ -1,3 +1,4 @@
+# 1010
 
 def main():
     name = input("Whats your name? ")
