@@ -1,3 +1,6 @@
+# Saved on November 8, 2023
+
+
 # Ask user for their name
 name = input("Whats your name? ").strip().title()
 
