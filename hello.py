@@ -1,4 +1,4 @@
-# Saved on November 8, 2023
+# Edited on November 8, 2023
 
 def main():
     name = input("Whats your name? ")
