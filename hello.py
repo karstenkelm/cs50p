@@ -1,11 +1,11 @@
 # Saved on November 8, 2023
 
+def main():
+    name = input("Whats your name? ")
+    hello(name)
 
-# Ask user for their name
-name = input("Whats your name? ").strip().title()
+def hello():
+    print("moin,", name)
 
-# Split user's name into first and last name
-first, last = name.split(" ")
 
-# Say hello to user
-print(f"moinsen, {first}")
+main()
