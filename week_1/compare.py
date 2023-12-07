@@ -1,4 +1,5 @@
 # Edited on 20231109 8:56h
+#
 
 x = int(input("Whats X? "))
 y = int(input("Whats Y? "))
